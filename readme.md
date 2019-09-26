@@ -12,3 +12,9 @@ php artisan import:image
 
 
 
+git add .
+git commit -m "Task 1 done"
+
+git push -u origin master
+
+
